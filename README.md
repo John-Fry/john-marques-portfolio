@@ -1,4 +1,4 @@
-# John Marques — meu portfólio
+# John Marques — Portfólio
 
 Este projeto nasceu da vontade de apresentar meu trabalho de um jeito que também tivesse a minha cara. Aqui reúno um pouco da minha trajetória como desenvolvedor full-stack, projetos que fizeram parte dela e as tecnologias com que gosto de construir produtos.
 
