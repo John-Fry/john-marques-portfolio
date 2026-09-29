@@ -1,0 +1,16 @@
+{
+  "name": "john-marques-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "motion-v": "^1.7.1",
+    "nuxt": "^4.1.2",
+    "three": "^0.186.1"
+  }
+}
